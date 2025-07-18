@@ -45,8 +45,9 @@ nano .env
 
 - Setup input value
 
-* discord token to faucet: open discord => F12 (right mouse + inspect) => tab network => like this image
-  -per line per token => one wallet faucet
+* discord token to faucet: open discord => F12 (right mouse + inspect) => tab network => like this image:
+
+  - each line one token => one wallet faucet
 
   ![discord](v9.png)
 
