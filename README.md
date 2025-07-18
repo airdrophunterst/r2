@@ -4,6 +4,8 @@ Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https:/
 
 Link: [https://r2.money](https://r2.money?code=Y2K4P)
 
+Link tool: https://amautomarket.com/products/r2-final-testnet
+
 ## 🚨 Attention Before Running R2 Cli Version
 
 I am not `responsible` for the possibility of an account being `banned`!
@@ -44,6 +46,8 @@ nano .env
 - Setup input value
 
 * discord token to faucet: open discord => F12 (right mouse + inspect) => tab network => like this image
+  -per line per token => one wallet faucet
+
   ![discord](v9.png)
 
 - proxy: http://user:pass@ip:port
