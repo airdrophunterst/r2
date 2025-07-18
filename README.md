@@ -47,9 +47,13 @@ nano .env
 
 * discord token to faucet: open discord => F12 (right mouse + inspect) => tab network => like this image:
 
-  - each line one token => one wallet faucet
+```bash
+nano discordTokens.txt
+```
 
-  ![discord](v9.png)
+- each line one token => one wallet faucet
+
+![discord](v9.png)
 
 - proxy: http://user:pass@ip:port
 
